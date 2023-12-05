@@ -1,5 +1,5 @@
 # MiniFront-EndProjects
-A collection of small front-end projects to practice front-end development. Most of these projects are based on guides online, aiming to improve one's skills with front-end development. Every project that uses online guides will credited
+A collection of brief front-end projects for developing front-end skills. The majority of these projects are designed to enhance one's front-end development abilities and are based on internet tutorials. All projects utilizing online tutorials will receive credit.
 
 # 1. Weather App using JavaScript
 <img width="492" alt="Screenshot 2023-12-04 at 8 59 42 PM" src="https://github.com/ItsIzakB/MiniFront-EndProjects/assets/109478175/58765c00-c939-46db-9d01-84e2f503ecb2">
