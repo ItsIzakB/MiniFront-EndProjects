@@ -1,7 +1,7 @@
 # MiniFront-EndProjects
 A collection of brief front-end projects for developing front-end skills. The majority of these projects are designed to enhance one's front-end development abilities and are based on internet tutorials. All projects utilizing online tutorials will receive credit.
 
-# 1. Weather App using JavaScript
+# 1. 1. Weather App Using JS
 <img width="492" alt="Screenshot 2023-12-04 at 8 59 42 PM" src="https://github.com/ItsIzakB/MiniFront-EndProjects/assets/109478175/58765c00-c939-46db-9d01-84e2f503ecb2">
 
 
@@ -9,7 +9,7 @@ This project creates a basic weather app using HTML, CSS, and Javascript. OpenWe
 
 Credit: [**How To Make Weather App Using JavaScript Step By Step Explained**](https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&ab_channel=GreatStack)
 
-# 2. Calculator with HTML & CSS
+# 2. Calculator with JS
 
 <img width="361" alt="Screenshot 2023-12-05 at 5 44 16 PM" src="https://github.com/ItsIzakB/MiniFront-EndProjects/assets/109478175/ab5140e9-aac2-42d4-bd42-6727c3d2142f">
 
