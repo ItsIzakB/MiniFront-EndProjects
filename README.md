@@ -13,6 +13,13 @@ Credit: [**How To Make Weather App Using JavaScript Step By Step Explained**](ht
 
 <img width="361" alt="Screenshot 2023-12-05 at 5 44 16 PM" src="https://github.com/ItsIzakB/MiniFront-EndProjects/assets/109478175/ab5140e9-aac2-42d4-bd42-6727c3d2142f">
 
-This project creates a basic calculator app using Javascript. It has the basic arithmetic functions that can be found on most calculators.
+This project is a basic calculator app using Javascript. It has the basic arithmetic functions that can be found on most calculators.
 
 Credit: [**How To Make A Calculator Using HTML CSS And JavaScript**](https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&ab_channel=GreatStack](https://www.youtube.com/watch?v=cGgLHJGyS34&ab_channel=GreatStack)https://www.youtube.com/watch?v=cGgLHJGyS34&ab_channel=GreatStack)
+
+
+# 3. Weather App Using JS
+<img width="546" alt="Screenshot 2023-12-18 at 11 33 22 PM" src="https://github.com/ItsIzakB/MiniFront-EndProjects/assets/109478175/fd0155de-df47-4d2b-a5c6-74433bc44405">
+
+This project generates a QR code for any text you input into it. It utilizes a QR code API to create the QR code image. Then, Javascipt was used to display the QR. CSS animations were used as well.
+
