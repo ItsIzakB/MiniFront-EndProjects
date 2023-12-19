@@ -23,5 +23,5 @@ Credit: [**How To Make A Calculator Using HTML CSS And JavaScript**](https://www
 
 This project generates a QR code for any text you input into it. It utilizes a QR code API to create the QR code image. Then, Javascipt was used to display the QR code. CSS animations were used as well.
 
-Credit: [**How To Make QR Code Generator Website Using HTML CSS And JavaScript**]([https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&ab_channel=GreatStack](https://www.youtube.com/watch?v=cGgLHJGyS34&ab_channel=GreatStack)https://www.youtube.com/watch?v=cGgLHJGyS34&ab_channel=GreatStack](https://www.youtube.com/watch?v=g1j9rR-H1lk&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=10&ab_channel=GreatStack)https://www.youtube.com/watch?v=g1j9rR-H1lk&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=10&ab_channel=GreatStack)
+Credit: [**How To Make QR Code Generator Website Using HTML CSS And JavaScript**](https://youtu.be/g1j9rR-H1lk?si=umVCqQS04T-EtFWf)
 
