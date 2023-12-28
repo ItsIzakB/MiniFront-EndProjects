@@ -25,3 +25,9 @@ This project generates a QR code for any text you input into it. It utilizes a Q
 
 Credit: [**How To Make QR Code Generator Website Using HTML CSS And JavaScript**](https://youtu.be/g1j9rR-H1lk?si=umVCqQS04T-EtFWf)
 
+
+# 4. Popup Animation in JS
+![4 Popup Animation in JS](https://github.com/ItsIzakB/MiniFront-EndProjects/assets/109478175/f512495f-59c7-4aa9-843e-e74811624f23)
+
+
+
