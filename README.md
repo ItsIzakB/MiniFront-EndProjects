@@ -29,5 +29,6 @@ Credit: [**How To Make QR Code Generator Website Using HTML CSS And JavaScript**
 # 4. Popup Animation in JS
 ![4 Popup Animation in JS](https://github.com/ItsIzakB/MiniFront-EndProjects/assets/109478175/f512495f-59c7-4aa9-843e-e74811624f23)
 
+This project initializes a popup animation once the submit button is pressed. To exit the popup, you need to press "OK" at the bottom. Very little Javascript was needed as most of this project was about the designs and animation. 
 
 
