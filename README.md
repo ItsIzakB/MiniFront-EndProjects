@@ -31,4 +31,7 @@ Credit: [**How To Make QR Code Generator Website Using HTML CSS And JavaScript**
 
 This project initializes a popup animation once the submit button is pressed. To exit the popup, you need to press "OK" at the bottom. Very little Javascript was needed as most of this project was about the designs and animation. 
 
+Credit: [**How To Make A Popup Using HTML, CSS And JavaScript | Create a Modal Box In HTML Website**](https://www.youtube.com/watch?v=AF6vGYIyV8M&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=13&ab_channel=GreatStack)
+
+
 
