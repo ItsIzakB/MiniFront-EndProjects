@@ -38,6 +38,10 @@ Credit: [**How To Make A Popup Using HTML, CSS And JavaScript | Create a Modal B
 <img width="500" alt="Screenshot 2023-12-28 at 7 42 55 PM" src="https://github.com/ItsIzakB/MiniFront-EndProjects/assets/109478175/8103a0fa-7460-4951-9c65-225f3098f07a">
 <img width="500" alt="Screenshot 2023-12-28 at 7 43 33 PM" src="https://github.com/ItsIzakB/MiniFront-EndProjects/assets/109478175/1beafea2-13e5-4c65-bd8b-ed762bf9eee4">
 
+This project creates a contact form in which one's name, email address, and message will be sent to one's email address. No JS was used in this project, as much of the hard part was done using Web3Forms. Linear gradients and use of local fonts were some of the skills  I learned from this project.
+
+Credit: [**How To Create Working Contact Form Using HTML & CSS | Receive Contact Form Data on Email**](https://www.youtube.com/watch?v=-HeadgoqJ7A&t=411s&ab_channel=GreatStack)
+
 
 
 
